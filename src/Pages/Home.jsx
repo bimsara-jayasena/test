@@ -13,7 +13,7 @@ export default function Home() {
 
                 <div className="landing">
                     <img src={landing} alt="" srcset="" />
-                    <h1>Learn with us</h1>
+                    <h1>Learn with us!</h1>
                     <button className="btn-browse">Browse more</button>
                 </div>
                 <div className="card-container">
